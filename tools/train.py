@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# Copyright (C) Alibaba Group Holding Limited. All rights reserved.
 import argparse
 import copy
 

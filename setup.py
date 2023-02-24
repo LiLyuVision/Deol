@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# Copyright (C) Alibaba Group Holding Limited. All rights reserved.
 import glob
 import re
 from os import path
